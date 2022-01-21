@@ -123,10 +123,6 @@ section{
     margin-right: 1rem;
 }
 
-.pfe .img-top{
-    z-index: 99;
-}
-
 .projet-droit{
     width: 50%;
     display: flex;
