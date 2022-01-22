@@ -163,6 +163,16 @@ section{
     font-size: large;
 }
 
+.lien-gh-projet{
+    margin-top: 4rem;
+    width: 0%;
+    color: black;
+}
+
+.lien-gh-projet:hover{
+    color: black;
+}
+
 /*Competences*/
 
 .section-competences{
